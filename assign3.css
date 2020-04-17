@@ -1,0 +1,41 @@
+*{
+  font-size: 18px;
+  font-family: 'Baloo Bhaina 2', cursive;
+}
+
+.navbar-light{
+background-color: #5BD0FF;
+}
+
+.h1{
+  font-size: 60px;
+  height: 70px;
+}
+
+#m{
+  font-size: 45px;
+  font-weight: bold ;
+
+}
+
+
+#a, #b, #c{
+  box-sizing: border-box;
+  border:2px solid black;
+  margin-bottom: 40px;
+}
+
+
+.chic, .bee, .sus {
+  font-weight: bold;
+}
+
+h3{
+    text-align: center;
+}
+
+@media (min-width:576px) {
+button {
+    display: none;
+}
+}
